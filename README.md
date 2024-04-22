@@ -1,6 +1,6 @@
 ### Hi there 👋 this is Bambam(shivam)
 
-<!--
+
 **Shivam-thakur05/Shivam-thakur05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can search me on Linkedin 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
