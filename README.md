@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-thakur05&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-thakur05" /> </p>
 
-- 🔭 I’m currently working on [data exploration and preparation(R language)](Artificial Intelligence(Prolog))
+- 🔭 I’m currently working on **data exploration and preparation(R language)](Artificial Intelligence(Prolog))**
 
 - 🌱 I’m currently learning **DevOps Tools, PostGreSQL, DevOps Tools, Backend Development, Linux Commands**
 
