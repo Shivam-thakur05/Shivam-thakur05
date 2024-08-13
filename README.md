@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-thakur05&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-thakur05" /> </p>
 
-- 🔭 I’m currently working on **Discriptive Analysis (R language)], Data Visualization Using Tableau)**
+- 🔭 I’m currently working on **Discriptive Analysis (R language)], Data Visualization Using Tableau**
 
-- 🌱 I’m currently learning **DevOps Tools, DevOps Tools, Backend Development, Linux Commands**
+- 🌱 I’m currently learning **DevOps Tools, Cloud Computing, Backend Development, Linux Commands**
 
 - 👯 I’m looking to collaborate on **Arificial Intelligence, Machine Learning and NLP**
 
