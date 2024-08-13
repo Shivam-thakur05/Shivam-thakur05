@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bambam(Shivam) Thakur</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-thakur05&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-thakur05" /> </p>
 
-- 🔭 I’m currently working on **Data Exploration and Preparation(R language)](Artificial Intelligence(Prolog))**
+- 🔭 I’m currently working on **Discriptive Analysis (R language)], Data Visualization Using Tableau)**
 
-- 🌱 I’m currently learning **DevOps Tools, PostGreSQL, DevOps Tools, Backend Development, Linux Commands**
+- 🌱 I’m currently learning **DevOps Tools, DevOps Tools, Backend Development, Linux Commands**
 
-- 👯 I’m looking to collaborate on **Data science projects**
+- 👯 I’m looking to collaborate on **Arificial Intelligence, Machine Learning and NLP**
 
-- 💬 Ask me about **Data structures and Algorithms, Database Management System, Operating System,Networking**
+- 💬 Ask me about **Data structures and Algorithms, Database Management System, Operating System, Basic Networking and AI**
 
 - 📫 How to reach me **bambamthakur73690@gmail.com**
 
